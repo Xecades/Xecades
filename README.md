@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-<p align="center">Catch me at <a href="https://xecades.xyz/">xecades.xyz</a>! 😉</p>
+<p align="center">Catch me at <a href="https://note.xecades.xyz/">note.xecades.xyz</a>! 😉</p>
 
 <p align="center">
   <picture>
